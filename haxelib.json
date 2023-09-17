@@ -1,0 +1,13 @@
+{
+    "name": "epikowa_cli",
+    "url" : "https://gitlab2.latearrivalstud.io/epikowa/epikowa_cli",
+    "license": "CECILL-B",
+    "tags": ["cli"],
+    "description": "Parse and handle CLI commands.",
+    "version": "0.5.0",
+    "classPath": "src/",
+    "releasenote": "Initial release",
+    "contributors": ["Benjamin Dasnois"],
+    "dependencies": {
+    }
+  }
